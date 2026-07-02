@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanchit Sovale</h1>
 <h3 align="center">A passionate data engineer and developer from Pune, India.</h3>
-I am an undergrad student 
+<h2>About Me</h2>
+<br>
+<li>I am an undergrad student in my final year</li>
+<li>I love to worked on real world problems</li>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanchit-sovale-146922278/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanchits487@gmail.com) 
