@@ -5,6 +5,7 @@
 <li>I am an undergrad student in my final year</li>
 <li>I love to work on real world problems</li>
 <li>Currently exploring Spark</li>
+<li> Building VCard for smart management of visiting cards</li>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanchit-sovale-146922278/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanchits487@gmail.com) 
