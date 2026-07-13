@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanchit Sovale</h1>
 <h3 align="center">A passionate data engineer and developer.</h3>
 <h2>About Me</h2>
-<img width="233" height="79" alt="output" src="https://github.com/user-attachments/assets/d1ef8652-6d0b-44e6-95e2-f11a0ce3af84" />
+<img width="233" height="79" alt="output2" src="https://github.com/user-attachments/assets/32be86ff-f1be-4d66-b41f-6f0aa7b00b76" />
+
 
 
 <br>
